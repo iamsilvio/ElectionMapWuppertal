@@ -1,0 +1,20 @@
+{
+  "name": "WahlMapWuppertal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ol": "^6.4.3"
+  },
+  "devDependencies": {
+    "webpack": "4.44.1",
+    "webpack-command": "^0.5.0",
+    "ol": "^6.4.3"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

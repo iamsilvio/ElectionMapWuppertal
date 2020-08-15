@@ -1,0 +1,1198 @@
+
+1 
+Bundesallee 265
+AOK, Haupteingang
+Barrierefrei
+1
+2
+Bundesallee 265
+AOK, Haupteingang
+Barrierefrei
+1
+3
+Distelbeck 9
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+1
+4
+Distelbeck 9
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+1
+5
+Distelbeck 9
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+1
+6
+Bundesallee 30
+Kath. Hauptschule
+Barrierefrei
+1
+7
+Auer Schulstr. 20
+Berg. Volkshochschule
+Barrierefrei
+2
+8
+Hombüchel 80
+Kath. Grundschule
+Nur mit Hilfe zugänglich
+2
+9
+Hombüchel 80
+Kath. Grundschule
+Nur mit Hilfe zugänglich
+2
+10
+Marienstr. 64
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+2
+11
+Kolpingstr. 8
+Stadtbibliothek
+Barrierefrei
+2
+12
+Marienstr. 64
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+2
+
+13
+Helmholtzstr. 40
+Realschule (Mirker Str. 95)
+Barrierefrei
+3
+14
+Schleswiger Str. 12
+Berufskolleg
+Zugang nur über mehrere Stufen
+3
+
+15
+Friedrichschulstr. 15
+Jugendeinrichtung
+Zugang nur über mehrere Stufen
+3
+
+16
+Gathe 6
+Alte Feuerwache
+Barrierefrei
+3
+17
+Alemannenstr. 42 a
+Ev. Gemeindehaus
+Barrierefrei
+3
+18
+Opphofer Str. 47
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+4
+
+19
+Am Engelnberg 16
+Kath. Grundschule
+Zugang nur über mehrere Stufen
+4
+
+20
+Am Engelnberg 16
+Kath. Grundschule
+Zugang nur über mehrere Stufen
+4
+
+21
+Friedrich-Storck-Weg 22
+Kindergarten
+Barrierefrei
+4
+22
+Else-Lasker-Schüler-Str. 30 (Mensa)
+Gesamtschule (Eingang Oberstr.)
+Barrierefrei
+4
+
+
+23
+Else-Lasker-Schüler-Str. 30 (Mensa)
+Gesamtschule (Eingang Oberstr.)
+Barrierefrei
+4
+
+
+24
+Reichsgrafenstr. 38
+Gemeinschafsgrundschule
+Eingeschränkt barrierefrei
+5
+
+25
+Reichsgrafenstr. 26
+Kath. Grundschule
+Nur mit Hilfe zugänglich
+5
+26
+Rainer-Gruenter-Str. 21
+Campus Freudenberg, FZH
+Barrierefrei
+5
+27
+Cronenberger Str. 375
+Berg. Volkshochschule
+Barrierefrei
+5
+28
+Pfalzgrafenstr. 32
+Bergisches Kolleg (unterer Schulhof)
+Zugang nur über mehrere Stufen
+5
+
+
+29
+Cronenberger Str. 375
+Berg. Volkshochschule
+Barrierefrei
+5
+30
+Augustastr. 2
+NetzwerkCafé
+Barrierefrei
+5
+31
+Auf dem Johannisberg 1
+Hotel Vienna House (hinter Stadthalle)
+Barrierefrei
+6
+
+32
+Chlodwigstr. 27
+Gemeindesaal St. Suitbertus
+Barrierefrei
+6
+33
+Reichsgrafenstr. 38
+Gemeinschafsgrundschule
+Eingeschränkt barrierefrei
+6
+
+34
+Reichsgrafenstr. 38
+Gemeinschafsgrundschule
+Eingeschränkt barrierefrei
+6
+
+35
+Jung-Stlling-Weg 45
+Schulzentrum Süd
+Barrierefrei
+6
+36
+Königshöher Weg 7
+Grundschule
+Zugang nur über mehrere Stufen
+6
+
+37
+Bayreuther Str. 35
+Gymnasium (Eingang Richard-Wagner-Str.)
+Nur mit Hilfe zugänglich
+11
+
+38
+Bayreuther Str. 35
+Gymnasium (Eingang Richard-Wagner-Str.)
+Nur mit Hilfe zugänglich
+11
+
+39
+Viktoriastr. 21
+BG Bau
+Zugang nur über mehrere Stufen
+11
+
+40
+Bundesallee 30
+Kath. Hauptschule
+Barrierefrei
+11
+41
+Arrenberger Str. 71 b
+Städt. Jugendeinrichtung
+Barrierefrei
+11
+42
+Kyfäuser Str. 86
+Städt. Jugendeinrichtung
+Barrierefrei
+12
+43
+Nützenberger Str. 242
+Gemeinschafsgrundschule-Zugang Schulhof
+Barrierefrei
+12
+
+44
+Nützenberger Str. 242
+Gemeinschafsgrundschule-Zugang Schulhof
+Barrierefrei
+12
+
+45
+Donarstr. 2
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+12
+
+46
+Donarstr. 2
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+12
+
+47
+Lüntenbeck 1
+Schloss Lüntenbeck
+Barrierefrei
+13
+48
+Krummacherstr. 251
+Best Western Waldhotel Eskeshof
+Barrierefrei
+13
+
+49
+Deutscher Ring 11
+Kirchengemeinde St. Bonifatus
+Barrierefrei
+13
+
+50
+Sillerstr. 13
+Gemeinschafsgrundschule
+Nur mit Hilfe zugänglich
+13
+51
+Garterlaie 29
+Altenheim St. Remigius
+Barrierefrei
+13
+52
+Unten Vorm Steeg 1
+Bayer-Sporthalle
+Barrierefrei
+13
+53
+Am Dönberg 46
+Gemeinschafsgrundschule
+Barrierefrei
+21
+54
+Am Dönberg 46
+Gemeinschafsgrundschule (EG rechts)
+Zugang über mehrere Stufen
+21
+
+
+55
+Höhenstr. 56
+Tagesschule Dönberg
+Eingeschränkt barrierefrei
+21
+
+56
+Kurt-Schumacher-Str. 130
+Gemeinschafsgrundschule
+Barrierefrei
+21
+57
+Kurt-Schumacher-Str. 130
+Gemeinschafsgrundschule
+Barrierefrei
+21
+58
+Gustav-Heinemann-Str. 10
+Bewohnertreff Oase
+Eingeschränkt barrierefrei
+21
+
+59
+Rötgen 110
+Hauptschule (Zugang über den Schulhof)
+Barrierefrei
+21
+
+60
+Rötgen 110
+Hauptschule (Zugang über den Schulhof)
+Barrierefrei
+22
+
+61
+Rötgen 110
+Hauptschule (Zugang über den Schulhof)
+Barrierefrei
+22
+
+62
+Rötgen 102 a
+Zentrum für Kinder und Jugendliche
+Barrierefrei
+22
+
+63
+Kohlstr. 150
+Philippuskirche
+Barrierefrei
+22
+64
+Leipziger Str. 1
+Kath. Grundschule
+Zugang nur über mehrere Stufen
+22
+
+65
+Kohlstr. 11
+Berufskolleg
+Barrierefrei
+22
+66
+Am Mirker Bach 1
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+22
+
+67
+Kohlstr. 11
+Berufskolleg
+Barrierefrei
+23
+68
+Hainstr. 192
+Gemeinschafsgrundschule
+Barrierefrei
+23
+69
+Kruppstr. 145
+Gesamtschule
+Barrierefrei
+23
+70
+Birkenhöhe 60-62
+Gemeinschafsgrundschule
+Barrierefrei
+23
+71
+Hainstr. 192
+Gemeinschafsgrundschule
+Barrierefrei
+23
+72
+Birkenhöhe 60-62
+Gemeinschafsgrundschule
+Barrierefrei
+23
+73
+In den Birken 56
+Katernberger Vereinshaus
+Barrierefrei
+24
+74
+Kruppstr. 145
+Gesamtschule
+Barrierefrei
+24
+75
+Kruppstr. 145
+Gesamtschule
+Barrierefrei
+24
+76
+Bayreuther Str. 35
+Gymnasium (Eingang Richard-Wagner-Str.)
+Nur mit Hilfe zugänglich
+24
+
+77
+Am Eckbusch 29
+Gemeindezentrum
+Barrierefrei
+24
+78
+Birkenhöhe 60-62
+Gemeinschafsgrundschule
+Barrierefrei
+24
+79
+Birkenhöhe 60-62
+Gemeinschafsgrundschule
+Barrierefrei
+24
+80
+Blücherstr. 19
+Realschule
+Nur mit Hilfe zugänglich
+31
+81
+Florian-Geyer-Str. 9
+Pina-Bausch-Gesamtschule (Mensa)
+Barrierefrei
+31
+
+82
+Elfenhang 4
+Gemeinschafsgrundschule (Leichtbau)
+Barrierefrei
+31
+
+83
+Edith-Stein-Str. 19
+Altentagesstäte
+Barrierefrei
+31
+84
+Edith-Stein-Str. 19
+Pfarrsaal
+Barrierefrei
+31
+85
+Blücherstr. 19
+Realschule
+Nur mit Hilfe zugänglich
+31
+86
+Vohwinkeler Str. 58
+Jobcenter Geschäfsstelle 1
+Barrierefrei
+32
+87
+Gräfrather Str. 15
+Ev. Gemeindezentrum
+Barrierefrei
+32
+88
+Elfenhang 4
+Gemeinschafsgrundschule (Leichtbau)
+Barrierefrei
+32
+
+89
+Höhe 67
+Städt. Jugendeinrichtung
+Barrierefrei
+32
+90
+Gebhardtstr. 16
+Gemeinschafsgrundschule
+Barrierefrei
+32
+91
+Radenberg 12
+Gemeinschafsgrundschule
+Barrierefrei
+33
+92
+Heuweg 20
+Kindergarten
+Zugang nur über mehrere Stufen
+33
+
+93
+Nathrather Str. 148
+Diakonie Wuppertal Stadt-teilservice -
+Barrierefrei
+33
+
+94
+Nathrather Str. 144
+Ev. Tagespflege Am Sonnengarten
+Barrierefrei
+33
+
+95
+Vohwinkeler Str. 58
+Bezirkssozialdienst (Vorraum)
+Barrierefrei
+32
+96
+Zur Waldkampfahn 8
+Jugend- und Begegnungszentrum
+Barrierefrei
+33
+
+97
+Schöllerweg 11
+Feuerwehr
+Barrierefrei
+33
+98
+Ladestr. 13
+Feuerwehr
+Barrierefrei
+33
+99
+Am Hofe 1
+Gemeinschafsgrundschule
+Barrierefrei
+41
+100
+Hauptstr. 96
+Pfarrgemeinde HL. Ewalde
+Zugang nur über mehrere Stufen
+41
+
+101
+Rotsieper Höhe 14
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+41
+
+102
+Rotsieper Höhe 14
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+41
+
+103
+Rotsieper Höhe 14
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+41
+
+104
+Teschensudberger Str. 14
+Ev. Gemeindezentrum
+Barrierefrei
+41
+105
+Rotsieper Höhe 14
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+41
+
+106
+Rathausplatz 4
+Bürgerbüro Cronenberg
+Barrierefrei
+41
+107
+Am Hofe 1
+Gemeinschafsgrundschule
+Barrierefrei
+42
+108
+Küllenhahner Str. 145
+Gemeinschafsgrundschule
+Barrierefrei
+42
+109
+Theishahner Str. 35
+Feuerwehr (Zugang über den Hof)
+Barrierefrei
+42
+
+110
+Cronenfelder Str. 26
+Gemeinschafsgrundschule
+Barrierefrei
+42
+111
+Cronenfelder Str. 26
+Gemeinschafsgrundschule
+Barrierefrei
+42
+112
+Mastweg 29
+DRK Zentrum
+Barrierefrei
+42
+113
+Cronenfelder Str. 26
+Gemeinschafsgrundschule
+Barrierefrei
+42
+114
+Steinweg 20
+Verwaltungsgebäude
+Barrierefrei
+51
+115
+Hohenstein 123
+Realschule (Altbau / Mensa)
+Barrierefrei
+51
+116
+Zur Schafrücke 30
+Kath. Grundschule
+Barrierefrei
+51
+117
+Bachstr. 15
+Berg. Volkshochschule
+Barrierefrei
+51
+118
+Hans-Dietrich-Genscher-Platz 1
+Wohnungsamt
+Barrierefrei
+51
+
+119
+Zeughausstr. 39
+Tagespflege Merenow
+Barrierefrei
+51
+120
+Alarichstr. 44
+Kath. Grundschule
+Zugang nur über mehrere Stufen
+51
+
+121
+Sankt-Martns-Weg 1
+Gemeindezentrum
+Barrierefrei
+52
+122
+Leimbacher Str. 4
+Realschule
+Barrierefrei
+52
+123
+Carnaper Str. 13
+Kath. Hauptschule (Eing. Akazienstr.)
+Barrierefrei
+52
+
+124
+Thorner Str. 15
+Gemeinschafsgrundschule (Turnhalle)
+Barrierefrei
+52
+
+125
+Eichenstr. 59
+Förderschule
+Barrierefrei
+52
+126
+Eichenstr. 59
+Förderschule
+Barrierefrei
+52
+127
+Eichenstr. 59
+Förderschule
+Barrierefrei
+52
+128
+Wartburgstr. 43
+Modulbau der Gesamtschule Barmen
+Barrierefrei
+53
+
+129
+Martn-Luther-Str. 6
+Gemeindezentrum
+Barrierefrei
+53
+130
+Siegesstr. 134
+Gymnasium (Eingang Mensa)
+Barrierefrei
+53
+131
+Heusnerstr. 40
+HELIOS Klinikum Wuppertal
+Barrierefrei
+54
+132
+Thorner Str. 15
+Gemeinschafsgrundschule (Turnhalle)
+Barrierefrei
+54
+
+133
+Rudolfstr. 120
+Gemeinschafsgrundschule
+Barrierefrei
+53
+134
+Rudolfstr. 120
+Gemeinschafsgrundschule
+Barrierefrei
+53
+135
+Hünefeldstr. 54 a
+Intern. Begegnungszentrum
+Barrierefrei
+53
+136
+Witensteinstr. 80
+Christan-Morgenstern-Schule
+Barrierefrei
+53
+137
+Hatzfelder Str. 191
+Rösterei Troxler-Haus
+Barrierefrei
+54
+138
+Melanchthonstr. 25
+Schule am Nordpark
+Nur mit Hilfe zugänglich
+54
+139
+Alarichstr. 44
+Kath. Grundschule
+Zugang nur über mehrere Stufen
+54
+
+140
+Schützenstr. 34
+Wuppertaler Stadtwerke (Gebäude E)
+Barrierefrei
+54
+
+141
+Wilkhausstr. 133 a
+Turnhalle
+Eingeschränkt barrierefrei
+54
+
+142
+Wilkhausstr. 133 a
+Turnhalle
+Eingeschränkt barrierefrei
+54
+
+143
+Emilienstr. 36
+Hauptschule (Mensa)
+Barrierefrei
+55
+144
+Siegesstr. 134
+Gymnasium (Eingang Mensa)
+Barrierefrei
+55
+145
+Marper Schulweg 6
+Gemeinschafsgrundschule
+Barrierefrei
+55
+146
+Marper Schulweg 6
+Gemeinschafsgrundschule
+Barrierefrei
+55
+147
+Bundeshöhe 7
+CVJM - Westbund
+Barrierefrei
+55
+148
+Hesselnberg 42
+Gemeinschafsgrundschule
+Nur mit Hilfe zugänglich
+55
+149
+Hesselnberg 42
+Gemeinschafsgrundschule
+Nur mit Hilfe zugänglich
+55
+150
+Schwarzbach 105
+Jobcenter Wuppertal (Eingang OPERA)
+Barrierefrei
+61
+
+151
+Heinrich-Böll-Str. 136
+Jugendzentrum
+Barrierefrei
+61
+152
+Max-Planck-Str. 10
+Realschule
+Barrierefrei
+61
+153
+Peter-Hansen-Platz 1
+Die Färberei
+Barrierefrei
+61
+154
+Bachstr. 15
+Berg. Volkshochschule
+Barrierefrei
+61
+155
+Mathäusstr. 24
+Hauptschule
+Barrierefrei
+62
+156
+Mathäusstr. 24
+Hauptschule
+Barrierefrei
+62
+157
+Bachstr. 15
+Berg. Volkshochschule
+Barrierefrei
+62
+158
+Germanenstr. 36
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+62
+
+159
+Germanenstr. 36
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+62
+
+160
+Lentzestr. 14
+Förderschule
+Zugang nur über mehrere Stufen
+62
+
+161
+Haarhausen 22
+Gemeinschafsgrundschule
+Barrierefrei
+63
+162
+Kreuzstr. 85
+Förderschule (Zugang Schulhof)
+Barrierefrei
+63
+
+163
+Kreuzstr. 85
+Förderschule (Zugang Schulhof)
+Barrierefrei
+63
+
+164
+Liegnitzer Str. 64
+Turnhalle
+Eingeschränkt barrierefrei
+63
+
+165
+Liegnitzer Str. 64
+Turnhalle
+Eingeschränkt barrierefrei
+63
+
+166
+Wichlinghauser Str. 74-76
+Stadteiltreff Offenes Ohr
+Zugang nur über mehrere Stufen
+63
+
+167
+Friedhofstr. 11
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+63
+
+168
+Witener Str. 144
+Gemeinschafsgrundschule (Leichtbau)
+Barrierefrei
+64
+
+169
+Witener Str. 144
+Gemeinschafsgrundschule (Leichtbau)
+Barrierefrei
+64
+
+170
+Im Kämpchen 9
+Kath. Gemeindezentrum
+Barrierefrei
+64
+171
+Haarhausen 22
+Gemeinschafsgrundschule
+Barrierefrei
+64
+172
+Haselrain 38
+Gemeinschafsgrundschule
+Barrierefrei
+64
+173
+Haselrain 38
+Gemeinschafsgrundschule
+Barrierefrei
+64
+174
+Haselrain 38
+Gemeinschafsgrundschule
+Barrierefrei
+64
+175
+Kleiner Werth 30
+Jobcenter Wuppertal
+Barrierefrei
+71
+176
+Gewerbeschulstr. 34
+Berufskolleg
+Nur mit Hilfe zugänglich
+71
+177
+Obere Sehlhofstr. 44
+Lutherheim
+Barrierefrei
+71
+178
+Obere Sehlhofstr. 44
+Lutherheim
+Barrierefrei
+71
+179
+Schubertstr. 41
+Blaues Kreuz e.V.
+Zugang nur über mehrere Stufen
+71
+
+180
+Berg-Mark-Str. 5
+Gemeinschafsgrundschule
+Nur mit Hilfe zugänglich
+71
+181
+Gewerbeschulstr. 34
+Berufskolleg
+Nur mit Hilfe zugänglich
+71
+182
+Obere Sehlhofstr. 25
+Städt. Seniorentreff
+Zugang nur über mehrere Stufen
+72
+
+183
+Meyerstr. 32
+Gemeinschafsgrundschule
+Barrierefrei
+72
+184
+Heckinghauser Str. 206
+Café Johannis
+Barrierefrei
+72
+185
+Auf der Bleiche 53
+Seniorenzentrum
+Eingeschränkt barrierefrei
+72
+
+186
+Meyerstr. 32
+Gemeinschafsgrundschule
+Barrierefrei
+72
+187
+Hammesberger Weg 26
+Gemeinschafsgrundschule (Neubau)
+Barrierefrei
+72
+
+188
+Schwelmer Str. 133
+Bandfabrik Kultur am Rand e.V.
+Barrierefrei
+81
+
+189
+Spitzenstr. 20
+Städt. Jugendeinrichtung (Internet-Café)
+Nur mit Hilfe zugänglich
+81
+
+190
+Spitzenstr. 20
+Städt. Jugendeinrichtung (Erdgeschoss)
+Nur mit Hilfe zugänglich
+81
+
+191
+Heinrich-Böll-Str. 240
+Gesamtschule
+Barrierefrei
+81
+192
+Mercklinghausstr. 11
+Gemeinschafsgrundschule (Neubau)
+Eingeschränkt barrierefrei
+81
+
+
+193
+Mercklinghausstr. 11
+Gemeinschafsgrundschule (Neubau)
+Eingeschränkt barrierefrei
+81
+
+
+194
+Heinrich-Böll-Str. 240
+Gesamtschule
+Barrierefrei
+81
+195
+Dieckerhoffstr. 20
+Ev. Grundschule
+Barrierefrei
+82
+196
+Dieckerhoffstr. 20
+Ev. Grundschule
+Barrierefrei
+82
+197
+Hölkesöhde 22 a
+Städt. Altenheim
+Barrierefrei
+81
+198
+Dieckerhoffstr. 20
+Ev. Grundschule
+Barrierefrei
+82
+199
+Badische Str. 76
+Kleterzentrum
+Barrierefrei
+82
+200
+Zu den Erbhöfen 53
+Gemeinderaum
+Nur mit Hilfe zugänglich
+82
+201
+Steinhauser Str. 12
+Gemeindehaus
+Barrierefrei
+82
+202
+Beyenburger Freiheit 49
+Kloster (Pfarrsaal)
+Barrierefrei
+82
+203
+Siegelberg 40
+Gemeinschafsgrundschule
+Barrierefrei
+82
+204
+Sondern 41
+Siedlertreff Sondern
+Eingeschränkt barrierefrei
+82
+
+205
+Spieckern 39
+Feuerwehr
+Barrierefrei
+82
+206
+Engelbert-Wüster-Weg 29
+Gemeinschafsgrundschule
+Barrierefrei
+91
+207
+Jägerhaus 112
+Feuerwehr (untere Fahrzeughalle)
+Barrierefrei
+91
+
+208
+Engelbert-Wüster-Weg 29
+Gemeinschafsgrundschule
+Barrierefrei
+91
+209
+Mohrhennsfeld 19
+Städt. Jugendeinrichtung
+Barrierefrei
+91
+210
+Ferdinand-Lassalle-Str. 28-30
+Grundschule
+Barrierefrei
+91
+
+211
+Ferdinand-Lassalle-Str. 28-30
+Grundschule
+Barrierefrei
+91
+
+212
+Marktstr. 21
+Bürgerbüro Ronsdorf
+Barrierefrei
+91
+213
+Scheidtstr. 36
+Jugendzentrum Ronsdorf
+Zugang nur über mehrere Stufen
+91
+
+214
+An der Blutinke 70
+Gesamtschule
+Barrierefrei
+92
+215
+Kurfürstenstr. 13
+Gemeindezentrum
+Barrierefrei
+92
+216
+Remscheider Str. 50
+Feuerwehr (obere Fahrzeughalle)
+Barrierefrei
+92
+
+217
+Schenkstr. 133
+Altenheim (alte Bibliothek)
+Barrierefrei
+92
+218
+Schenkstr. 135
+Altenheim (Nebengebäude-Internetcafé)
+Barrierefrei
+92
+
+219
+Echoer Str. 46
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+92
+
+220
+Echoer Str. 46
+Gemeinschafsgrundschule
+Zugang nur über mehrere Stufen
+92
+
+221
+An der Blutinke 70
+Gesamtschule
+Barrierefrei
+92
